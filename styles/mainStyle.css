@@ -1,0 +1,24 @@
+.mainHeader {
+  border: solid red 3px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.leftSmalllogo {
+  border: solid Green 2px;
+  width: 250px;
+  height: 45px;
+  margin-left: 20px;
+}
+
+.userAccount {
+  border: solid Green 2px;
+  width: 250px;
+  height: 45px;
+  margin-right: 20px;
+}
