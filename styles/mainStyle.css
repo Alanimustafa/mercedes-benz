@@ -3,6 +3,10 @@
 
 /* -------- Mian Page Header -------- */
 
+body {
+  background-color: #333f3c;
+}
+
 /* Main Page - Header Main Box*/
 .mainHeader {
   border: solid red 3px;
