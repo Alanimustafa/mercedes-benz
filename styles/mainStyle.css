@@ -88,6 +88,7 @@ body {
 
 /* Main Page - Contents Container */
 .mainCentralLargeContents {
+  display: flex;
   border: solid cyan 3px;
   width: 99%;
   height: 100%;
@@ -98,7 +99,7 @@ body {
   align-content: center;
   flex-direction: row;
   flex-wrap: wrap;
-  background-image: url(https://www.brabus.com/_Resources/Persistent/b/8/7/d/b87d3fc7e4592f049f00d805deddfc4c7fbc49b2/BRABUS_750_GT63_WEBTEASER.mp4);
+  
 }
 
 /* AMG Container */
