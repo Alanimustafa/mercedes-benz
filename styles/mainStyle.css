@@ -121,6 +121,7 @@ body {
   margin-right: 5px;
   margin-top: 325px;
   margin-bottom: 325px;
+  
 }
 
 /* BRABUS Container */
@@ -130,5 +131,11 @@ body {
   height: 30vh;
   margin-right: 20px;  
   margin-top: 325px;
-  margin-bottom: 325px;   
+  margin-bottom: 325px;
+}
+
+video {
+  position: relative;
+  height: 100%;
+  width: 100%;
 }
